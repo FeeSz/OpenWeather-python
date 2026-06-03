@@ -42,13 +42,6 @@ PREVISÃO DO TEMPO
 Clima: céu limpo
 Temperatura: 24.58ºC
 ```
-
-> Adicione aqui um print da execução.
-
-```md
-![Demonstração](./images/previsao-tempo.png)
-```
-
 ---
 
 ## ⚙️ Funcionalidades
@@ -82,9 +75,7 @@ previsao-tempo/
 │
 ├── previsao-tempo.py
 ├── README.md
-│
-└── images/
-    └── previsao-tempo.png
+
 ```
 
 ---
